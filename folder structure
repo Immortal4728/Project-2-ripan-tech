@@ -1,0 +1,9 @@
+/ticket-booking/
+│
+├── index.html
+├── style.css
+├── app.js
+├── assets/
+│   └── images/
+│       └── event-thumbnail.jpg
+└── admin.html
